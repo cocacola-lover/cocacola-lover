@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @cocacola-lover
-- 👀 I’m interested in everything.
-- 🌱 I’m currently learning how to be a decent human being.
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m @cocacola-lover an aspiring front-end developer.
+- 👀 I’m interested in working on bigger projects and learning more stuff.
 - 📫 How to reach me: pegas620507@gmail.com
 
 <!---
