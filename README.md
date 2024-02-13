@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cocacola-lover an aspiring front-end developer.
+- 👋 Hi, I’m @cocacola-lover an middle front-end developer.
 - 🧐 I have a pretty good grasp of JS\TS\HTML\CSS and have been working with React for some time.
 - 👀 I’m interested in working on bigger projects and learning more stuff.
 - 📫 How to reach me: pegas620507@gmail.com
